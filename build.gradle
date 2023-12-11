@@ -38,6 +38,7 @@ dependencies {
     implementation 'org.springframework:spring-jdbc:6.1.0'
     implementation 'org.springframework:spring-webmvc:6.1.0'
     implementation 'org.hibernate.orm:hibernate-core:6.4.0.Final'
+    implementation 'org.springframework.data:spring-data-jpa:3.1.5'
 
     implementation group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-yaml', version: '2.13.0'
     implementation group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.13.0'
